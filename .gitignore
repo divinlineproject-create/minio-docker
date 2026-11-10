@@ -3,5 +3,6 @@
 !.env.example
 
 data/*
+!data/.gitkeep
 
 .DS_Store
