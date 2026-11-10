@@ -2,6 +2,6 @@
 .env.production
 !.env.example
 
-data/
+data/*
 
 .DS_Store
